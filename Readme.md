@@ -1,0 +1,1 @@
+This repository goes along with the Codubee Intro To Git Pt 2 video.
